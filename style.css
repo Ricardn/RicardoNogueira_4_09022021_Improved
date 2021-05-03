@@ -8,17 +8,16 @@ body {
 }
 
 
-.background-color {
-    background: #303030;
+
+
+
+.bold {
+    font-weight: 600;
 }
 
-
-
-
-
-
-
-
+.white {
+    color: #FFF;
+}
 
 
 
@@ -797,7 +796,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: rgb(0, 0, 0)!important;
 }
 
 .btn-atomic-tangerine {
