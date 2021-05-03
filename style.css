@@ -7,6 +7,28 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+
+.background-color {
+    background: #303030;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -753,7 +775,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #303030;
     padding: 40px 40px 40px 40px;
 }
 
