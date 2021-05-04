@@ -35,6 +35,11 @@ h1 {
     font-weight: 600;
 }
 
+.col-sm-6 img {
+    width: 300px;
+    height: 300px;
+}
+
 .col-sm-12 img{
     width: 150px;
     height: 150px;
