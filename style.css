@@ -26,11 +26,6 @@ h1 {
     margin-bottom: 30px;
 }
 
-.navbar-brand img {
-    width: 300px;
-}
-
-
 .align-link{
     display: flex;
     justify-content: center;
@@ -38,6 +33,11 @@ h1 {
 
 .label {
     font-weight: 600;
+}
+
+.col-sm-12 img{
+    width: 150px;
+    height: 150px;
 }
 
 a,
@@ -329,16 +329,9 @@ a:hover {
 
 .navbar-brand img {
     max-height: 200px;
+    width: 300px;
     margin: 0 5px 0 0;
     display: inline;
-}
-
-.navbar-brand img[src$=svg] {
-    min-width: 100px;
-}
-
-.nav-center .navbar-brand img {
-    margin: 0;
 }
 
 .navbar .nav {
@@ -979,10 +972,7 @@ h4 {
         -webkit-box-shadow: none;
         box-shadow: none;
     }
-    .navbar-brand img {
-        max-height: 40px;
-        width: auto;
-    }
+   
     .nav-invert .navbar-header {
         float: none;
         width: 100%;
